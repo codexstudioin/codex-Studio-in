@@ -1,0 +1,6 @@
+{
+  "name": "Rajput Fast Food",
+  "description": "Fast-food ordering and menu management app for Rajput Fast Food featuring WhatsApp and phone handoff, cart, favorites, offers, and local admin catalogue manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
